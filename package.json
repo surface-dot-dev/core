@@ -36,7 +36,8 @@
     }
   },
   "dependencies": {
-    "react-virtuoso": "^4.12.5"
+    "react-virtuoso": "^4.12.5",
+    "zod": "^3.24.2"
   },
   "devDependencies": {
     "@types/node": "^20.14.8",

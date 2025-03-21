@@ -1,1 +1,1 @@
-export const client = {};
+export class McpClient {}
